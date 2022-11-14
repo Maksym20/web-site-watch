@@ -1,2 +1,3 @@
 # web-site-watch
- web site watch (HTML+CSS)
+
+In this project was used HTML6, CSS. 
